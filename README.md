@@ -27,7 +27,7 @@
 
 <!--关于我-->
 <div>
-   <h3> 🤺About Me</h3>
+   <h3> :sunglasses:About Me</h3>
 
   <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
   <p>&emsp;&emsp;嗨，你好，我是Akita。</p>
@@ -134,11 +134,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuTian-324&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
-
-<!--我的项目-->
-<a href="https://github.com/QiuTian-324/quantumPanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QiuTian-324&repo=quantumPanda&theme=buefy" />
-</a>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
