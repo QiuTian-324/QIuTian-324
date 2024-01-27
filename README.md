@@ -15,36 +15,12 @@
 
 
 
-### 简介  
+### 个人简介  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-🌱 I’m currently learning Golang and front-end development.  
-  
-
-❓ Ask me about anything interesting!  
-  
-
-⚡ Fun fact: All polar bears are left-handed.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
+## 技术栈和常用工具  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -69,22 +45,26 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <br/>  
 
 
-## Github Stats  
+## Github 统计  
 <table  align="center"><tr><td valign="top" width="48%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=QiuTian-324&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QiuTian-324&hide_border=true&layout=compact" align="left"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="content" />
 
 </td></tr></table>  
 
 <br/>   
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuTian-324&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <a href="https://github.com/Xuenew/PyTopicsApiExplore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=PyTopicsApiExplore&theme=buefy" />
 </a>
+
 <a href="https://github.com/Xuenew/Python_Spider_All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=Python_Spider_All&theme=buefy" />
 </a>
