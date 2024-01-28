@@ -41,7 +41,8 @@
 ### :chart_with_upwards_trend:Github 统计  
 <table  align="center"><tr><td valign="top" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=QiuTian-324&show_icons=true&count_private=true&hide_border=true" align="left" />
+![akita's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiuTian-324&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuTian-324&layout=compact&theme=tokyonight)
 
 </td><td valign="top" width="48%">
 
