@@ -38,6 +38,24 @@
 
 </br>
 
+### :chart_with_upwards_trend:Github 统计  
+<table  align="center"><tr><td valign="top" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=QiuTian-324&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td><td valign="top" width="48%">
+
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="content" />
+
+</td></tr></table>  
+
+<br/>  
+
+<!--折线图-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuTian-324&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br>
+
 
 ### :computer:技术栈和常用工具  
 <div align="center" >
@@ -114,22 +132,3 @@
 
 <br/>  
 
-
-
-### :chart_with_upwards_trend:Github 统计  
-<table  align="center"><tr><td valign="top" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=QiuTian-324&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="48%">
-
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="content" />
-
-</td></tr></table>  
-
-<br/>   
-
-<!--折线图-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuTian-324&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</br>
