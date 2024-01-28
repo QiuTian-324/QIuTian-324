@@ -36,6 +36,9 @@
   <p>&emsp;&emsp;我们正在让这个世界变得更加美好。</p>
 </div>
 
+<!--彩色分割线-->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 </br>
 
 ### :chart_with_upwards_trend:Github 统计  
@@ -55,6 +58,8 @@
 <!--折线图-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuTian-324&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--彩色分割线-->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </br>
 
 
@@ -62,8 +67,10 @@
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-
+<img src="./images/golang.png" alt=twitter style="margin-bottom: 5px;" />
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+</br>
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -128,8 +135,10 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
 </div> 
+
+<!--彩色分割线-->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <br/>  
 
