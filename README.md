@@ -60,9 +60,4 @@
 
 <!-- just img 图片 -->
 <img src="./images/golang.png" alt=twitter style="margin-bottom: 5px;" />
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
-</br>
-
-<br/>  
 
