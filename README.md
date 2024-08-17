@@ -3,11 +3,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&color=000000&background=FFF7F79C&center=true&vCenter=true&random=true&width=1000&height=200&lines=console.log(%22Hello+World%22)+;Wish+you+happy+every+day.;Good+things+will+happen.;The+best+is+yet+to+com.;To+make+each+day+count.;Every+day+is+a+second+chance.;Action+speak+louder+than+words." alt="Typing SVG" /></a>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
+-->
 
   <!--Hello-->
 <h1>Hey,I'm Akita! 🙋</h1>
